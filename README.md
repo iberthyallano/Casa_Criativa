@@ -20,6 +20,7 @@ Sistema de cadastro e exposições de ideias para tornar o momento de confinamen
 ### :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+<br>
 Esse projeto foi feito com base nas aulas ministradas pela [Rocketseat](https://rocketseat.com.br/).
 
 ---
