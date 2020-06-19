@@ -14,12 +14,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Bootstrap](https://getbootstrap.com/)
 
 ### :house_with_garden: Projeto
-  Sistema de cadastro e exposições de ideias para tornar o momento de confinamento pelo Covid-19 mais interessante. 
+
+Sistema de cadastro e exposições de ideias para tornar o momento de confinamento pelo Covid-19 mais interessante.
 
 ### :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
+Esse projeto foi feito com base nas aulas ministradas pela [Rocketseat](https://rocketseat.com.br/).
 ---
 <h4 align="center">
     Feito por <a href="https://www.linkedin.com/in/iberthy-allano-bba4771a4" target="_blank"> Iberthy Allano</a>.
