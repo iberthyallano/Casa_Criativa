@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="./public/image/CasaCriativa.png" width="250px" /><br>
   <br>
-  <b>Deixe sua quarentena mais criativa!</b> 
+  <b>Deixe sua quarentena mais divertida!</b> 
 </h1>
 
 <br>
