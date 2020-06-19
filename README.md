@@ -11,6 +11,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Nodemon](https://nodemon.io/)
 - [Express](https://expressjs.com/pt-br/)
 - [Sqlite3](https://www.sqlite.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ### :house_with_garden: Projeto
   Sistema de cadastro e exposições de ideias para tornar o momento de confinamento pelo Covid-19 mais interessante. 
