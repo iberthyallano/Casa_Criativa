@@ -1,0 +1,48 @@
+
+img: "https://image.flaticon.com/icons/svg/2729/2729007.svg",
+title: "Cursos de Programação",
+category: "Estudo",
+description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde porro consequatur aperiam sunt. Nulla facere, ab aut, suscipit necessitatibus distinctio tempore consequuntur dolor impedit numquam animi perspiciatis architecto, pariatur ad!",
+url: "https://rocketseat.com.br",
+
+img: "https://image.flaticon.com/icons/svg/2729/2729005.svg",
+title: "Exercicíos",
+category: "Saúde",
+description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde porro consequatur aperiam sunt. Nulla facere, ab aut, suscipit necessitatibus distinctio tempore consequuntur dolor impedit numquam animi perspiciatis architecto, pariatur ad!",
+url: "https://rocketseat.com.br",
+
+img: "https://image.flaticon.com/icons/svg/2729/2729027.svg",
+title: "Meditação",
+category: "Mentalidade",
+description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde porro consequatur aperiam sunt. Nulla facere, ab aut, suscipit necessitatibus distinctio tempore consequuntur dolor impedit numquam animi perspiciatis architecto, pariatur ad!",
+url: "https://rocketseat.com.br",
+
+img: "https://image.flaticon.com/icons/svg/2729/2729021.svg",
+title: "Jogar com  Amigos",
+category: "Diversão",
+description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde porro consequatur aperiam sunt. Nulla facere, ab aut, suscipit necessitatibus distinctio tempore consequuntur dolor impedit numquam animi perspiciatis architecto, pariatur ad!",
+url: "https://rocketseat.com.br",
+
+img: "https://image.flaticon.com/icons/svg/2729/2729038.svg",
+title: "Pintura",
+category: "Criatividade",
+description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde porro consequatur aperiam sunt. Nulla facere, ab aut, suscipit necessitatibus distinctio tempore consequuntur dolor impedit numquam animi perspiciatis architecto, pariatur ad!",
+url: "https://rocketseat.com.br",
+
+img: "https://image.flaticon.com/icons/svg/2729/2729048.svg",
+title: "Recortes",
+category: "Criatividade",
+description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde porro consequatur aperiam sunt. Nulla facere, ab aut, suscipit necessitatibus distinctio tempore consequuntur dolor impedit numquam animi perspiciatis architecto, pariatur ad!",
+url: "https://rocketseat.com.br",
+
+img: "https://image.flaticon.com/icons/svg/2729/2729009.svg",
+title: "Cozinhar",
+category: "Culinária",
+description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde porro consequatur aperiam sunt. Nulla facere, ab aut, suscipit necessitatibus distinctio tempore consequuntur dolor impedit numquam animi perspiciatis architecto, pariatur ad!",
+url: "https://rocketseat.com.br",
+
+img: "https://image.flaticon.com/icons/svg/2729/2729054.svg",
+title: "Cuidar do Pet",
+category: "Diversão",
+description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde porro consequatur aperiam sunt. Nulla facere, ab aut, suscipit necessitatibus distinctio tempore consequuntur dolor impedit numquam animi perspiciatis architecto, pariatur ad!",
+url: "https://rocketseat.com.br",
